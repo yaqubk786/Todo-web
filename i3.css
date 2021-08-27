@@ -53,6 +53,7 @@ span{
 }
 #back{
     margin-left: 650px;
+    font-size: 30px;
 }
 img{
     height: 34px;
@@ -64,8 +65,13 @@ img{
     font-size: 25px;
     color: red;
 }
-.fas fa-plus-circle{
+.plusicon{
     position: absolute;
-    right: 0;
+    margin-left: 88px;
     bottom: 0;
+    margin-bottom: 30px;
+    font-size: 30px;
+    color: red;
+    
+    
 }
